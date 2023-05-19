@@ -20,8 +20,8 @@ Here are some ideas to get you started:
   <a href="https://github.com/aruyu"><img alt="Commits" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aruyu&theme=dracula&utcOffset=8" />
 </p>
 
-<p align="middle"> 
-  <a href="https://github.com/aruyu"><img alt="Trophy" height="120px" src="https://github-profile-trophy.vercel.app/?username=aruyu&column=8&theme=flat" />
+<p align="right"> 
+  <a href="https://github.com/aruyu"><img alt="Trophy" height="110px" src="https://github-profile-trophy.vercel.app/?username=aruyu&column=8&theme=flat&rank=-?" />
 </p>
 
 * * *
