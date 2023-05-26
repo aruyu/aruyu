@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="right"> 
-  <a href="https://github.com/aruyu"><img alt="Trophy" height="110px" src="https://github-profile-trophy.vercel.app/?username=aruyu&column=8&theme=flat&rank=-?" />
+  <a href="https://github.com/aruyu"><img alt="Trophy" height="110px" src="https://github-profile-trophy.vercel.app/?username=aruyu&column=7&theme=flat&rank=-?" />
 </p>
 
 * * *
