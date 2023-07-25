@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 
 * * *
 
+***<p align="middle">
+Go where your heart leads.
+Do it what you want.</p>***
+
+* * *
+
 <p align="middle"> 
   <a href="https://github.com/aruyu"><img alt="Github Stats" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aruyu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <a href="https://github.com/aruyu"><img alt="Commits" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aruyu&theme=dracula&utcOffset=8" />
@@ -24,12 +30,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/aruyu"><img alt="Trophy" height="110px" src="https://github-profile-trophy.vercel.app/?username=aruyu&column=7&theme=flat&rank=-?" />
 </p>
 
-* * *
-
-<p align="middle"> 
-  <a href="https://github.com/aruyu"><img alt="Contributions Graph" height="217px" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aruyu&theme=dracula" />
-</p>
-
 <p align="middle"> 
   <a href="https://github.com/aruyu"><img alt="Top Langs by Repo" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aruyu&theme=dracula" />
   <a href="https://github.com/aruyu"><img alt="Top Langs by Commit" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aruyu&theme=dracula" />
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 * * *
 
-<h3 align="middle">✨ Stacks ✨</h3>
+<h3 align="middle">✨ Interests ✨</h3>
 <p align="middle">Techs in use for now</p>
 <p align="middle">
 
