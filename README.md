@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 ❝</p>***
 
 ***<p align="middle">
+Life is short.
 Go where your heart leads.
 Do it what you want.</p>***
 
