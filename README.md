@@ -19,9 +19,11 @@ Here are some ideas to get you started:
 ❝</p>***
 
 ***<p align="middle">
-Life is short.
 Go where your heart leads.
 Do it what you want.</p>***
+
+***<p align="middle">
+去己心路。做行己想。</p>***
 
 ***<p align="middle">
 ❞</p>***
