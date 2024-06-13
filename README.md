@@ -46,21 +46,52 @@ Do it what you want.</p>***
 
 * * *
 
-<h3 align="middle">✨ Interests ✨</h3>
-<p align="middle">Techs in use for now</p>
-<p align="middle">
+<h3 align="middle">✨ Techs ✨</h3>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=Lua&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-F03A6A?style=flat&logo=CPlusPlus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=CSharp&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/MariaDB-003545?style-flat&logo=MariaDB&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redmine-B32024?style-flat&logo=Redmine&logoColor=white" />
+***<p align="middle">Languages</p>***
+<div align="middle">
 
-</p>
+| Python | Lua | C++ | C# | Java | Verilog |
+|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"  alt="python" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="lua"  alt="lua" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="50" height="50"/> |
+
+</div>
+
+***<p align="middle">Languages for using Scripts and Others</p>***
+<div align="middle">
+
+| Bash | Zsh | PowerShell | CSS |
+|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash"  alt="bash" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ohmyzsh/ohmyzsh-original.svg" title="ohmyzsh"  alt="ohmyzsh" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="powershell" alt="powershell" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="50" height="50"/>
+
+</div>
+
+***<p align="middle">Tools</p>***
+<div align="middle">
+
+| Git | Docker | MariaDB | Redmine | DotNet |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="mariadb" alt="mariadb" width="50" height="50"/> |  | <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="50" height="50"/> |
+
+</div>
+
+***<p align="middle">IDE</p>***
+<div align="middle">
+
+| Vi | NeoVim | VSCode | VisualStudio | AtmelStudio | Vitis | Vivado |
+|----------|----------|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim"  alt="vim" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="neovim"  alt="neovim" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="visualstudio" width="50" height="50"/> |
+
+</div>
+
+***<p align="middle">OS</p>***
+<div align="middle">
+
+| Arch | Ubuntu | CentOS | Petalinux | ~~Windows~~ |
+|----------|----------|----------|----------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="archlinux"  alt="archlinux" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu"  alt="ubuntu" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="centos" alt="centos" width="50" height="50"/> |  | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows11" alt="windows11" width="50" height="50"/> |
+
+</div>
 
 * * *
 
