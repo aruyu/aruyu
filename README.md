@@ -71,7 +71,7 @@ Do it what you want.</p>***
 
 | Git | Docker | MariaDB | Redmine | DotNet |
 |----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="mariadb" alt="mariadb" width="50" height="50"/> | <img src="https://github.com/aruyu/aruyu/blob/master/icons/redmine.png" title="redmine"  alt="redmine" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="50" height="50"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="mariadb" alt="mariadb" width="50" height="50"/> | <img src="https://github.com/aruyu/aruyu/blob/master/icons/redmine.webp" title="redmine"  alt="redmine" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="50" height="50"/> |
 
 </div>
 
@@ -89,7 +89,7 @@ Do it what you want.</p>***
 
 | Arch | Ubuntu | CentOS | Petalinux | ~~Windows~~ |
 |----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="archlinux"  alt="archlinux" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu"  alt="ubuntu" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="centos" alt="centos" width="50" height="50"/> | <img src="https://github.com/aruyu/aruyu/blob/master/icons/petalinux.png" title="petalinux"  alt="petalinux" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows11" alt="windows11" width="50" height="50"/> |
+| <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="archlinux"  alt="archlinux" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu"  alt="ubuntu" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg" title="centos" alt="centos" width="50" height="50"/> | <img src="https://github.com/aruyu/aruyu/blob/master/icons/petalinux.png" title="petalinux"  alt="petalinux" width="80" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/windows11/windows11-original.svg" title="windows11" alt="windows11" width="50" height="50"/> |
 
 </div>
 
