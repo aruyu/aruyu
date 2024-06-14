@@ -57,12 +57,12 @@ Do it what you want.</p>***
 
 </div>
 
-***<p align="middle">Languages for using Scripts and Others</p>***
+***<p align="middle">Scripts and Others</p>***
 <div align="middle">
 
-| Bash | Zsh | PowerShell | CSS |
+| Bash | Zsh | PowerShell | U-Boot |
 |----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash"  alt="bash" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ohmyzsh/ohmyzsh-original.svg" title="ohmyzsh"  alt="ohmyzsh" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="powershell" alt="powershell" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="50" height="50"/>
+| <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash"  alt="bash" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/ohmyzsh/ohmyzsh-original.svg" title="ohmyzsh"  alt="ohmyzsh" width="50" height="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" title="powershell" alt="powershell" width="50" height="50"/> | <img src="https://github.com/aruyu/aruyu/blob/master/icons/uboot.svg" title="uboot" alt="uboot" width="50" height="50"/>
 
 </div>
 
