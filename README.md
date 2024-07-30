@@ -30,18 +30,22 @@ Do it what you want.</p>***
 
 * * *
 
-<p align="middle"> 
+<p align="middle">
   <a href="https://github.com/aruyu"><img alt="Github Stats" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aruyu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <a href="https://github.com/aruyu"><img alt="Commits" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aruyu&theme=dracula&utcOffset=9" />
 </p>
 
-<p align="middle"> 
+<p align="middle">
+  <a href="https://github.com/aruyu"><img alt="Top Langs by Repo" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aruyu&theme=dracula" />
+  <a href="https://github.com/aruyu"><img alt="Top Langs by Commit" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aruyu&theme=dracula" />
+</p>
+
+<p align="middle">
   <a href="https://github.com/aruyu"><img alt="Trophy" height="110px" src="https://github-profile-trophy.vercel.app/?username=aruyu&column=8&theme=flat&rank=-?" />
 </p>
 
-<p align="middle"> 
-  <a href="https://github.com/aruyu"><img alt="Top Langs by Repo" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aruyu&theme=dracula" />
-  <a href="https://github.com/aruyu"><img alt="Top Langs by Commit" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aruyu&theme=dracula" />
+<p align="middle">
+  <a href="https://github.com/aruyu"><img alt="Activity" height="320px" src="https://github-readme-activity-graph.vercel.app/graph?username=aruyu&theme=dracula&custom_title=Contribution%20Graph%20for%20the%20last%2031%20days&hide_border=true" />
 </p>
 
 * * *
@@ -96,6 +100,6 @@ Do it what you want.</p>***
 * * *
 
 <h3 align="middle">⚡ Visitors ⚡</h3>
-<p align="center"> 
+<p align="center">
   <a href="https://github.com/aruyu"><img src="https://profile-counter.glitch.me/aruyu/count.svg" />
 </p>
