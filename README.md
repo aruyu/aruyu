@@ -31,17 +31,13 @@ Do it what you want.</p>***
 * * *
 
 <p align="middle">
-  <a href="https://github.com/aruyu"><img alt="Github Stats" height="180px" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aruyu&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <a href="https://github.com/aruyu"><img alt="Commits" height="180px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aruyu&theme=dracula&utcOffset=9" />
+  <a href="https://github.com/aruyu"><img alt="Stats" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=aruyu&show_icons=true&theme=dracula" />
+  <a href="https://github.com/aruyu"><img alt="Commits" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=aruyu&theme=dracula&utcOffset=9" />
 </p>
 
 <p align="middle">
-  <a href="https://github.com/aruyu"><img alt="Top Langs by Repo" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aruyu&theme=dracula" />
-  <a href="https://github.com/aruyu"><img alt="Top Langs by Commit" height="220px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aruyu&theme=dracula" />
-</p>
-
-<p align="middle">
-  <a href="https://github.com/aruyu"><img alt="Trophy" height="120px" src="https://github-profile-trophy.vercel.app/?username=aruyu&column=8&theme=flat&rank=-?" />
+  <a href="https://github.com/aruyu"><img alt="Top Langs by Repo" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aruyu&theme=dracula" />
+  <a href="https://github.com/aruyu"><img alt="Top Langs by Commit" height="200px" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aruyu&theme=dracula" />
 </p>
 
 <p align="middle">
@@ -55,7 +51,7 @@ Do it what you want.</p>***
 ***<p align="middle">Languages</p>***
 <div align="middle">
 
-| Python | Lua | C++ | C# | Java | Verilog |
+| Python | Lua | C/C++ | C# | Java | Verilog |
 |----------|----------|----------|----------|----------|----------|
 | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python"  alt="python" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/lua/lua-original.svg" title="lua"  alt="lua" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="csharp" alt="csharp" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/aruyu/aruyu/blob/master/icons/verilog.svg" title="verilog"  alt="verilog" width="50" height="50"/>
 
@@ -73,18 +69,18 @@ Do it what you want.</p>***
 ***<p align="middle">Tools</p>***
 <div align="middle">
 
-| Git | Docker | MariaDB | Redmine | DotNet |
+| Git | Docker | MariaDB | MongoDB | DotNet |
 |----------|----------|----------|----------|----------|
-| <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="mariadb" alt="mariadb" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/aruyu/aruyu/blob/master/icons/redmine.webp" title="redmine"  alt="redmine" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="50" height="50"/> |
+| <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git"  alt="git" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="docker"  alt="docker" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/mariadb/mariadb-original.svg" title="mariadb" alt="mariadb" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb"  alt="mongodb" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="dotnetcore" alt="dotnetcore" width="50" height="50"/> |
 
 </div>
 
 ***<p align="middle">IDE</p>***
 <div align="middle">
 
-| Vi | NeoVim | VSCode | VisualStudio | AtmelStudio | Vitis | Vivado |
-|----------|----------|----------|----------|----------|----------|----------|
-| <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim"  alt="vim" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="neovim"  alt="neovim" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="visualstudio" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/aruyu/aruyu/blob/master/icons/atmelstudio.png" title="atmelstudio"  alt="atmelstudio" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/aruyu/aruyu/blob/master/icons/vitis.ico" title="vitis"  alt="vitis" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/aruyu/aruyu/blob/master/icons/vivado.ico" title="vivado"  alt="vivado" width="50" height="50"/>
+| Vi | NeoVim | VSCode | VisualStudio | Vitis | Vivado |
+|----------|----------|----------|----------|----------|----------|
+| <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" title="vim"  alt="vim" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="neovim"  alt="neovim" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" title="visualstudio" alt="visualstudio" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/aruyu/aruyu/blob/master/icons/vitis.ico" title="vitis"  alt="vitis" width="50" height="50"/> | <a href="https://github.com/aruyu"><img src="https://github.com/aruyu/aruyu/blob/master/icons/vivado.ico" title="vivado"  alt="vivado" width="50" height="50"/>
 
 </div>
 
@@ -99,7 +95,6 @@ Do it what you want.</p>***
 
 * * *
 
-<h3 align="middle">⚡ Visitors ⚡</h3>
-<p align="center">
-  <a href="https://github.com/aruyu"><img src="https://profile-counter.glitch.me/aruyu/count.svg" />
+<p align="right">
+  <a href="https://github.com/aruyu"><img alt="Views counter" height="320px" src="https://komarev.com/ghpvc/?username=aruyu&color=ee66bb" />
 </p>
